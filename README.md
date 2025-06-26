@@ -31,7 +31,7 @@
 
 - 🧾 [Fraud Detection using Stacked RNN](https://github.com/vineet35R/Fraud-Detection)
 - ✍️ [Text Summarization using NLP](https://github.com/vineet35R/Text-Summarization-using-NLP)
-- 🔠 [Handwritten Digit Recognition](#)
+- 🔠 [TEXT-TO-SPEECH](https://github.com/vineet35R/TEXT-TO-SPEECH)
 
 ---
 
