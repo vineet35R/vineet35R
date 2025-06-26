@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Vineet Kumar Rathod</h1>
 <h3 align="center">AI/ML Enthusiast | Researcher | Tech Explorer</h3>
 
-- 🌱 I’m currently working on **AI, ML, CV, NLP & NanoTech projects**
-- 💬 Ask me about **AI, ML, Web Dev, or your Final Year Project**
-- 📫 How to reach me: **vineet35r@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vineet35r)
+- 🌱 I’m currently working on **AI, ML, CV, NLP**
+- 💬 Ask me about **AI, ML**
+- 📫 How to reach me: **vineet.rathor25@gmail.com**
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vineet-rathod-b0316b239/)
 
 ---
 
