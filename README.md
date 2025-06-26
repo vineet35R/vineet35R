@@ -29,7 +29,7 @@
 
 ### 🧠 My Projects
 
-- 🧾 [Fraud Detection using Stacked RNN](https://github.com/vineet35R/Fraud-Detection-using-RNN)
+- 🧾 [Fraud Detection using Stacked RNN](https://github.com/vineet35R/Fraud-Detection)
 - ✍️ [Text Summarization using NLP](https://github.com/vineet35R/Text-Summarization-using-NLP)
 - 🔠 [Handwritten Digit Recognition](#)
 
